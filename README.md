@@ -24,5 +24,5 @@ You can set range as  `(min value):(max value)`, however if you don't set `min_v
 - Find SNP
 
   ```bash
-  $ python vcf_filter.py example.vcf -d 1:1 -a :
+  $ python vcf_filter.py example.vcf -d 1:1 -a :1
   ```
